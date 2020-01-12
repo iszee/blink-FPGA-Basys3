@@ -1,0 +1,10 @@
+#-----------------------------------------------------------
+# Vivado v2014.4 (64-bit)
+# SW Build 1071353 on Tue Nov 18 18:29:27 MST 2014
+# IP Build 1070531 on Tue Nov 18 01:10:18 MST 2014
+# Start of session at: Tue Nov 27 15:55:22 2018
+# Process ID: 8460
+# Log file: D:/fpga/xilinix/projects/project_2/project_2.runs/impl_1/basic.vdi
+# Journal file: D:/fpga/xilinix/projects/project_2/project_2.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source basic.tcl -notrace
